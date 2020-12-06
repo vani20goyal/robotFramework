@@ -1,8 +1,8 @@
 # robotFramework
 
 ## Robot Framework Details 
-This framework has 1 testcase for login in an open source website
-Tool used is an open source and uses Selenium jars at backend.
+This framework has 1 testcase for login.
+Tool uses Selenium jars at backend.
 
 
 ###### testCases package
